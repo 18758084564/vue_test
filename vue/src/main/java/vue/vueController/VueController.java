@@ -13,6 +13,7 @@ public class VueController {
 	public String getindex() {
 		System.out.println("+++++++++++++++++++");
 		log.info("+++++++++++++++++");
+		//2222222222222222
 		return "index";
 	}
 }
