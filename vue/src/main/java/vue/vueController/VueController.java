@@ -13,11 +13,11 @@ public class VueController {
 	public String getindex() {
 		System.out.println("+++++++++++++++++++");
 		log.info("+++++++++++++++++");
-<<<<<<< HEAD
+
 		//2444444444444444
-=======
+
 		//2444444444444444
->>>>>>> branch 'master' of https://github.com/18758084564/vue_test
+
 		return "index";
 	}
 }
